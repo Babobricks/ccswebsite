@@ -1,10 +1,28 @@
+header {
+  text-align: center;
+  padding: 10px;
+  font-size: 100px;
+}
+body {
+  background-color: rgb(41, 195, 206);
+}
 h1{
     color: blue;
-    background-color: hotpink;
 }
-.big{
-    font-size: 50px;
+h2{
+    font-size: 60px;
+}
+p {
+  color: slateblue;
+  font-family: fantasy;
+
+  font-size: 30px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+li{
+    font-size: 30px;
 }
 .red{
-    color: red;
+  color: red;
 }
